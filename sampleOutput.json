@@ -1,0 +1,175 @@
+{
+    "status": "ok",
+    "totalResults": 13,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Are Hong Kong's days as a global business hub over?",
+        "description": "A tough new security law comes at a time when businesses were already wary of the city.",
+        "url": "https://www.bbc.co.uk/news/world-asia-china-68636561",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1138C/production/_133004507_hk-index3-getty.jpg",
+        "publishedAt": "2024-03-25T14:52:17.1153818Z",
+        "content": "There is a new running joke in Hong Kong: locals mock their city for losing its status as the darling of global capital. As one joked, it is the newest Unesco world heritage site.\r\nA tough security l… [+7996 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "",
+        "title": "‘It’s like a game.’ Gen Z says they’re ditching dating apps. There’s just one problem | CNN Business",
+        "description": "Dating apps like Tinder and Bumble are facing a younger generation of users who say they’re going back to the basics: asking someone out in person. CNN’s Vanessa Yurkevich spoke to Gen Zers to hear if the end is near for dating apps or if post-pandemic love i…",
+        "url": "https://www.cnn.com/videos/business/2024/03/22/gen-z-dating-app-trends-jg-contd-orig.cnn",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240322153655-2024-gen-z-dating-apps-decline-gfx.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-03-25T11:10:41Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": null,
+        "title": "Business insolvency filings highest in years",
+        "description": "Insolvency Insider Canada EIC Dina Kovacevic talks about the rising trend of insolvency filings and bankruptcies in Canada. Watch here.",
+        "url": "https://financialpost.com/news/economy/business-insolvency-filings-highest-years",
+        "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/03/no0322closed.jpg",
+        "publishedAt": "2024-03-25T10:07:17.6626145Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "gruenderszene",
+          "name": "Gruenderszene"
+        },
+        "author": null,
+        "title": "So viele Millionen haben diese Business Angels angehäuft",
+        "description": "Welche Business-Angels konnten über die Jahre am meisten Kapital ansammeln? Das hat der Analysedienst Startupdetector ausgewertet.",
+        "url": "https://www.businessinsider.de/gruenderszene/business/so-viele-millionen-haben-business-angels-angehaeuft-0324/",
+        "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2024/02/202402_GS_Artikel_1800x1200.jpg?ver=1708293319",
+        "publishedAt": "2024-03-25T09:32:09+00:00",
+        "content": "Ohne externes Kapital würde es viele Startups nicht geben. Als erfahrene Unternehmer oder Investoren investieren sie ihr eigenes Geld in junge Unternehmen, oft in einem frühen Stadium, wenn tradition… [+966 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Ingrid Lunden",
+        "title": "Spotify tests video courses to teach everything from music production to excel | TechCrunch",
+        "description": "Spotify has carved out a business for itself in music streaming, podcast entertainment and audiobooks. Now, in its ongoing efforts to get its 600 million+",
+        "url": "https://techcrunch.com/2024/03/25/spotify-courses-learning/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/03/Courses-on-Spotify-PR-Image-6-2.png?resize=1200,683",
+        "publishedAt": "2024-03-25T09:21:41Z",
+        "content": "Spotify has carved out a business for itself in music streaming, podcast entertainment and audiobooks. Now, in its ongoing efforts to get its 600 million+ users to spend more time and money on its pl… [+5464 chars]"
+      },
+      {
+        "source": {
+          "id": "the-wall-street-journal",
+          "name": "The Wall Street Journal"
+        },
+        "author": "Molly Ball, Brody Mullins",
+        "title": "Biden’s Trustbuster Draws Unlikely Fans: ‘Khanservative’ Republicans",
+        "description": "Growing skepticism toward big business on the right has won the FTC’s Lina Khan new allies",
+        "url": "https://www.wsj.com/politics/policy/lina-khan-ftc-antitrust-khanservatives-a6852a8f?mod=hp_lead_pos7",
+        "urlToImage": "https://images.wsj.net/im-941331/social",
+        "publishedAt": "2024-03-25T09:00:00Z",
+        "content": "When youre trying to restructure the entire American economy, you take your allies wherever you can find them. And so Lina Khan, the liberal chairwoman of the Federal Trade Commission, welcomes her g… [+501 chars]"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "JENNIFER PELTZ and MICHAEL R. SISAK",
+        "title": "Trump could learn on Monday how New York wants to collect $457 million owed in his civil fraud case",
+        "description": "NEW YORK (AP) — Former President Donald Trump could find out on Monday how New York state aims to collect over $457 million he owes in his civil business fraud case, even as he appeals the judgment that led to the gargantuan debt.",
+        "url": "https://apnews.com/8447c48d0436083737204b13401438d2",
+        "urlToImage": "https://storage.googleapis.com/afs-prod/media/ab25ef1ec7f54085800218e159a0f066/3000.jpeg",
+        "publishedAt": "2024-03-25T04:07:01Z",
+        "content": "NEW YORK (AP) — Former President Donald Trump could find out on Monday how New York state aims to collect over $457 million he owes in his civil business fraud case, even as he appeals the judgment t… [+4405 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news-au",
+          "name": "ABC News (AU)"
+        },
+        "author": "Iris Zhao, Jenny Cai",
+        "title": "China is considering making bosses pay workers for 'invisible' overtime, but is it a feasible solution?",
+        "description": "As China considers changes to the rights of workers there are concerns about the impact on businesses and how the solutions would be implemented.",
+        "url": "https://www.abc.net.au/news/2024-03-25/china-invisible-overtime-reforms-labour-law-work-hours/103599992",
+        "urlToImage": "https://live-production.wcms.abc-cdn.net.au/495349d9e4e8ce74b77a63e74cff783f?impolicy=wcms_watermark_news&cropH=1680&cropW=2983&xPos=17&yPos=325&width=862&height=485&imformat=generic",
+        "publishedAt": "2024-03-24T18:56:07Z",
+        "content": "For Jewel Wong, the boundary between life and work disappeared during the COVID-19 pandemic when people began to do their jobs from home.\r\n\"I couldn't tell what's work and what's life anymore I'm jus… [+6574 chars]"
+      },
+      {
+        "source": {
+          "id": "gruenderszene",
+          "name": "Gruenderszene"
+        },
+        "author": null,
+        "title": "Diese Business Schools gibt es in Deutschland – und das kosten sie",
+        "description": "Business Schools wie die WHU in Vallendar sind begehrte Kaderschmiede für angehende Gründer. Doch es gibt lohnenswerte Alternativen.",
+        "url": "https://www.businessinsider.de/gruenderszene/karriere-startup/whu-alternativen-business-schools-24/",
+        "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2020/09/GettyImages-1406728485-scaled-e1711104214420.jpg?ver=1711104218",
+        "publishedAt": "2024-03-22T11:02:13+00:00",
+        "content": "Dieser Text erschien zuerst am 16. Juni 2020 und wurde am 22. März 2024 umfassend aktualisiert.\r\nEin Abschluss an der Otto Beisheim School of Management (WHU) in Vallendar gilt unter hiesigen Gründer… [+752 chars]"
+      },
+      {
+        "source": {
+          "id": "axios",
+          "name": "Axios"
+        },
+        "author": "Alex Fitzpatrick, Kavya Beheraj",
+        "title": "The country's new business hot spots, mapped",
+        "description": "The Southeastern U.S. is a hotbed of new business activity.",
+        "url": "https://www.axios.com/2023/07/13/new-business-hot-spots",
+        "urlToImage": "https://images.axios.com/aDr8aF2q-EoHWlnE6VUNLPYxpRE=/0x0:1280x720/1366x768/2023/07/12/1689197791881.png",
+        "publishedAt": "2023-07-13T09:30:06Z",
+        "content": "The Southeastern U.S. is a hotbed of new business activity, home to nine of the top 10 major metro areas with the most new business applications per 1,000 residents last year.\r\nDriving the news: That… [+1716 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-times",
+          "name": "Financial Times"
+        },
+        "author": null,
+        "title": "‘Money is no object’: Ghislaine Maxwell trial shines light on class divide",
+        "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+        "url": "https://www.ft.com/content/0b9d93da-1687-4eb1-bd53-0a84a1b40dff",
+        "urlToImage": null,
+        "publishedAt": "2021-12-14T06:22:29.1165883Z",
+        "content": "Keep abreast of significant corporate, financial and political developments around the world.\r\nStay informed and spot emerging risks and opportunities with independent global reporting, expert\r\ncomme… [+32 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-times",
+          "name": "Financial Times"
+        },
+        "author": null,
+        "title": "Need relief from the stress of screen time? There’s an app for that",
+        "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+        "url": "https://www.ft.com/content/221cf7c4-56e7-4c7e-b6c0-cc3737da0330",
+        "urlToImage": null,
+        "publishedAt": "2021-12-14T06:22:27.4295096Z",
+        "content": "Let our global subject matter experts broaden your perspective with timely insights and opinions you\r\ncant find anywhere else."
+      },
+      {
+        "source": {
+          "id": "reddit-r-all",
+          "name": "Reddit /r/all"
+        },
+        "author": "Contributors to Wikimedia projects",
+        "title": "Canadian ice hockey player and businessman",
+        "description": null,
+        "url": "https://en.wikipedia.org/wiki/Tim_Horton#Death_and_aftermath",
+        "urlToImage": "https://upload.wikimedia.org/wikipedia/commons/a/ac/TimHorton_03.jpg",
+        "publishedAt": "2004-01-11T03:41:05Z",
+        "content": "This article is about the ice hockey player. For the eponymous restaurant chain that he co-founded, see Tim Hortons.\r\nMiles Gilbert \"Tim\" Horton (January 12, 1930 February 21, 1974)[1][2][3] was a Ca… [+14118 chars]"
+      }
+    ]
+  }
