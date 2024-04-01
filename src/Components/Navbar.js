@@ -1,11 +1,11 @@
-import React, { Component } from "react";
+import React from "react";
 import { Link } from "react-router-dom";
 
-export class Navbar extends Component {
-  render() {
+const Navbar=()=> {
+  
     return (
       <div>
-        <nav className="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
+        <nav className="navbar  fixed-top navbar-expand-lg bg-dark" data-bs-theme="dark">
           <div className="container-fluid">
             <Link className="navbar-brand" to="/">
               NewsExpress
@@ -91,7 +91,6 @@ export class Navbar extends Component {
         </nav>
       </div>
     );
-  }
 }
 
 export default Navbar;
