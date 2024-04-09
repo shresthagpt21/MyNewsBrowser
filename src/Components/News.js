@@ -32,19 +32,20 @@ const updateNews = async () => {
   };
 
   useEffect(()=>{
-      document.title=`${this.capitalizeFirstLetter(props.category)}-News Express `;
+      document.title=`${capitalizeFirstLetter(props.category)}-News Express `;
       updateNews();
-  },[]) //this will execute only once
+      // eslint-disable-next-line react-hooks/exhaustive-deps
+  },[]) ;//this will execute only once
   
- const  handlePrevious = async () => {
-    this.setState({ page: this.state.page - 1 });
-    setPage(page-1)
-    updateNews();
-  };
- const  handleNext = async () => {
-    setPage(page+1)
-    updateNews();
-  };
+//  const  handlePrevious = async () => {
+//     this.setState({ page: this.state.page - 1 });
+//     setPage(page-1)
+//     updateNews();
+//   };
+//  const  handleNext = async () => {
+//     setPage(page+1)
+//     updateNews();
+//   };
 
  const fetchMoreData = async () => {
    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=fbe1bf0b6b9d4dce9d9f88aca34ea0ed&page=${page+1}&pageSize=${props.pageSize}`;

@@ -18,7 +18,7 @@ const NewsItem= (props)=> {
                  <p className="card-text">{description}....</p>
                  
                  <p className="card-text"><small className="text-body-secondary">By {!author?"Unknown":author} on {new Date(date).toUTCString()}</small></p>
-              <a href={newsUrl} target="_blank" className="btn btn-sm btn-dark">Read More</a>
+              <a href={newsUrl} target="_blank" rel="noreferrer" className="btn btn-sm btn-dark">Read More</a>
          </div>
         </div>
       </div>
