@@ -1,5 +1,6 @@
 {
   "name": "newsapp",
+  "homepage":"https://newsexpress2104.netlify.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
